@@ -3,5 +3,5 @@
 
 This repository contains the scripts and data for my first interactive web map.
 
-You can view my map <[HERE](http://Lindawur.github.io/repository)>
+You can view my map <[HERE](http://Lindawur.github.io/myfirstwebmap/)>
 ~~~
